@@ -1,4 +1,44 @@
-# Getting Started with Create React App
+# CRUD Operations in ReactJS
+
+This project is a CRUD (Create, Read, Update, Delete) application created using ReactJS. It allows users to perform CRUD operations on a collection of items fetched from the [Dummy Practice API](https://dummy-practice-2.onrender.com). The application provides features such as adding, deleting, and editing items.
+
+## Features
+
+- **CRUD Operations**: Perform Create, Read, Update, and Delete operations on a collection of items.
+- **Dummy Practice API**: Utilizes the Dummy Practice API for fetching and persisting data.
+- **Responsive Design**: The project is designed to be responsive, ensuring a seamless user experience across different devices and screen sizes.
+
+## Designed By
+
+This project was designed by [Md Shamim Akhter](https://musical-mooncake-8fc409.netlify.app/).
+
+## Usage
+
+To use this project:
+
+1. Clone the repository to your local machine:
+
+2. Navigate to the project directory:
+
+3. Install dependencies:
+
+    ```
+    npm install
+    ```
+
+4. Start the development server:
+
+    ```
+    npm start
+    ```
+
+5. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the application.
+
+6. Perform CRUD operations on the items displayed in the application.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
